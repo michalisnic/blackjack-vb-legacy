@@ -1,11 +1,2 @@
 # Blackjack Simulator (Legacy Project)
-This is my first major software project, developed independently during my secondary school studies. It served as my introduction to Object-Oriented Programming (OOP) and complex game logic.
-
-Key Features
-    OOP Structure: Used a Cards class to manage attributes and behaviors.
-    Dealer AI: Implemented house rules where the dealer hits on 16 and stays on 17.
-    Complex Logic: Managed "Ace" values (1 or 11) dynamically.
-    
-Technical Context
-    Language: Visual Basic .NET
-    Focus: Logic design, state management, and event-driven programming.
+This Blackjack Simulator represents my first significant venture into software development, independently engineered during my secondary school studies (O-Levels) to explore the foundations of Object-Oriented Programming (OOP). Developed in Visual Basic .NET, the application features a robust game-state engine that manages complex betting logic—including player splitting and insurance—alongside a dealer "AI" programmed to hit on 16 and stay on 17. By implementing dynamic scoring for Ace values and integrating File I/O for external deck configuration
